@@ -1,24 +1,19 @@
-## Laravel School Management System (LSMS)
+## Laravel Digital School Management System
 
 **LSM System** is a simple role based school management system.
 
 ### Installation
-01. `git clone https://github.com/parvez-git/laravel-school-management-system.git`
+01. `git clone https://github.com/mamun060/Laravel-Digital_Schools-Management-System
 02. `cd laravel-school-management-system`
 03. `composer install`
-04. `npm install`
-05. `cp .env.example .env`
-06. `php artisan key:generate`
-07. `php artisan migrate`
-08. `php artisan db:seed`
-09. `php artisan serve`
+04. `cp .env.example .env`
+05. `php artisan key:generate`
+06. `php artisan migrate`
+07. `php artisan db:seed`
+08. `php artisan serve`
 
-### Packages
-01. `spatie/laravel-permission`
 
-### Credentials
-
-To test application the database is seeding with users :
+Application access info :
 
 -   Admin : email = admin@demo.com, password = 12345678 and Role: Admin
 -   Teacher : email = teacher@demo.com, password = 12345678 and Role: Teacher
